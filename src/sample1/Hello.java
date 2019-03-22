@@ -8,6 +8,9 @@ public class Hello {
 		
 		//developer 2 has added msg
 		System.out.println("my second commit");
+		
+		//old branch commit
+		System.out.println("hi i am old branch");
 
 	}
 
